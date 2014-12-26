@@ -1,0 +1,9 @@
+[package]
+
+name = "rg"
+version = "0.0.1"
+authors = ["Aarni Koskela <akx@iki.fi>"]
+
+[dependencies.image]
+
+git = "https://github.com/PistonDevelopers/image"
